@@ -152,7 +152,7 @@ PRODUTOS DISPONÍVEIS PARA ENSINO:
 > Mostre um exemplo de como os dados são formatados para o agente.
 
 ```
-Dados do Cliente:
+DADOS DO CLIENTE:
 - Nome: João Silva
 - Profissão: Analista de Sistemas
 - Perfil: Moderado
@@ -160,7 +160,7 @@ Dados do Cliente:
 - Objetivo principal: Construir reserva de emergência
 - Reserva: R$ 10.000
 
-Últimas transações:
+ÚLTIMAS TRANSAÇÕES:
 - 02/10: Aluguel - R$ 1200
 - 03/10: Supermercado - R$ 450
 - 05/10: Netflix - R$ 55.90
