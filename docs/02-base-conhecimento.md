@@ -158,11 +158,12 @@ Dados do Cliente:
 - Saldo disponível: R$ 5.000
 
 Últimas transações:
-- 01/11: Supermercado - R$ 450
+- 02/10: Aluguel - R$ 1200
+- 03/10: Supermercado - R$ 450
 - 05/10: Netflix - R$ 55.90
 - 07/10: Farmácia- R$ 89
 - 10/10: Restaurante - R$ 120
-- 10/12: Uber - R$ 45
+- 12/10: Uber - R$ 45
 - 15/10: Conta de Luz - R$ 180
 - 20/10: Academia - R$ 99
 - 25/10: Combustível - R$ 250
