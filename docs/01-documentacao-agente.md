@@ -82,5 +82,4 @@ flowchart TD
 - Não faz recomendações de investimentos ou cortes específicos
 - Não acessa dados bancários reais e/ou sensíveis
 - Não substitui um profissional certificado
-
-[Liste aqui as limitações explícitas do agente]
+- Não desrespeitar o cliente e suas decisões
