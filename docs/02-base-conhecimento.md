@@ -15,7 +15,7 @@
 
 > Você modificou ou expandiu os dados mockados? Descreva aqui.
 
-[Sua descrição aqui]
+O produto Fundo Imobiliário (FII) substituiu o Fundo Multimercado, pois me sinto mais confiante em usar produtos financeiros de meu conhecimento.
 
 ---
 
@@ -24,7 +24,23 @@
 ### Como os dados são carregados?
 > Descreva como seu agente acessa a base de conhecimento.
 
-[ex: Os JSON/CSV são carregados no início da sessão e incluídos no contexto do prompt]
+Há duas possibilidades:
+1-Injetar os dados diretamente no prompt (Ctrl + C, Ctrl + V) ou,
+2-Carregar os arquivos via código, como mostrado abaixo: 
+
+```python
+import pandas as pd
+import json
+
+historico=pd.read_csv('data/historico_atendimento.csv')
+transacoes=pd.read_csv('data/transacoes.csv')
+
+with open('data/perfil_investidor.json', 'r', encoding='utf-8') as f:
+  perfil=json.load(f)
+
+with open('data/produtos_financeiros.json', 'r', encoding='utf-8') as f:
+  produtos=json.load(f)
+```
 
 ### Como os dados são usados no prompt?
 > Os dados vão no system prompt? São consultados dinamicamente?
