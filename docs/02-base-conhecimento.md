@@ -25,8 +25,8 @@ O produto Fundo Imobiliário (FII) substituiu o Fundo Multimercado, pois me sint
 > Descreva como seu agente acessa a base de conhecimento.
 
 Há duas possibilidades:
--Injetar os dados diretamente no prompt (Ctrl + C, Ctrl + V) ou,
--Carregar os arquivos via código, como mostrado abaixo: 
+- Injetar os dados diretamente no prompt (Ctrl + C, Ctrl + V) ou,
+- Carregar os arquivos via código, como mostrado abaixo: 
 
 ```python
 import pandas as pd
