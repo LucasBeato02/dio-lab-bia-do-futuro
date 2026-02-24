@@ -5,17 +5,18 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-Muitas pessoas têm problemas com controle de gastos e muitas vezes, acabam se endividando
+Muitas pessoas têm problemas com controle de gastos e muitas vezes, acabam se endividando.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-Através dos dados do usuário, o agente fornecerá explicações sobre finanças e seus gastos, mas sem recomendar investimentos ou cortes específicos
+Através dos dados do usuário, o agente fornecerá explicações sobre finanças e seus gastos, alertando sobre os riscos dos gastos e como se prevenir de eventuais problemas, mas sem recomendar que o cliente faça investimentos ou cortes específicos.
+O agente poderá relatar a situação do cliente, dizendo se há gastos excessivos ou não e, fornecendo explicações sobre saúde financeira.
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-Público jovem, pessoas que estão iniciando no mundo das finanças
+Público jovem, pessoas que estão iniciando no mundo das finanças e que precisam de orientações.
 
 ---
 
