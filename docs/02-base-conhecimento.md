@@ -47,9 +47,6 @@ with open('data/produtos_financeiros.json', 'r', encoding='utf-8') as f:
 
 ```text
 DADOS DO CLIENTE:
-
-
-PERFIL DO CLIENTE:
 {
   "nome": "João Silva",
   "idade": 32,
@@ -73,6 +70,10 @@ PERFIL DO CLIENTE:
     }
   ]
 }
+
+
+PERFIL DO CLIENTE:
+
 
 TRANSAÇÕES DO CLIENTE:
 
