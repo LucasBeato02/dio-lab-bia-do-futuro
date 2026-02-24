@@ -154,8 +154,11 @@ PRODUTOS DISPONÍVEIS PARA ENSINO:
 ```
 Dados do Cliente:
 - Nome: João Silva
+- Profissão: Analista de Sistemas
 - Perfil: Moderado
 - Saldo disponível: R$ 5.000
+- Objetivo principal: Construir reserva de emergência
+- Reserva: R$ 10.000
 
 Últimas transações:
 - 02/10: Aluguel - R$ 1200
@@ -167,5 +170,21 @@ Dados do Cliente:
 - 15/10: Conta de Luz - R$ 180
 - 20/10: Academia - R$ 99
 - 25/10: Combustível - R$ 250
+
+PRODUTOS DISPONÍVEIS:
+Tesouro Selic
+Obs: baixo risco
+    
+CDB Liquidez Diária
+Obs: risco baixo
+
+LCI/LCA
+Obs: risco baixo
+
+Fundo Imobiliário (FII)
+Obs: risco médio
+
+Fundo de Ações
+Obs: risco alto
 ...
 ```
