@@ -160,7 +160,4 @@ Não posso sugerir cortes específicos, mas posso te dizer como reduzir custos. 
 
 ## Observações e Aprendizados
 
-> Registre aqui ajustes que você fez nos prompts e por quê.
-
-- [Observação 1]
-- [Observação 2]
+Testei no chatGPT e ele correspondeu às minhas expectativas. Houve compreensão de mudanças nas perguntas e, adaptou as respostas.
