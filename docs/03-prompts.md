@@ -24,7 +24,7 @@ CONTEXTO: USO DA BASE DE CONHECIMENTO
 
 ### Cenário 1: Déficit
 
-**Contexto:** Cliente vem tendo prejuízo em suas finanças?
+**Contexto:** Cliente vem tendo prejuízo em suas finanças
 
 **Usuário:**
 ```
