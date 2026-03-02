@@ -63,10 +63,10 @@ Crie testes simples para validar seu agente:
 Após os testes, registre suas conclusões:
 
 **O que funcionou bem:**
-- [Assertividade dos valores e consultas, segurança, comportamento esperado]
+- Assertividade dos valores e consultas, segurança, comportamento esperado
 
 **O que pode melhorar:**
-- [Necessita de: melhor organização das respostas, compreensão das perguntas e responder apenas perguntas financeiras]
+- Necessita de: melhor organização das respostas, compreensão das perguntas e responder apenas perguntas financeiras
 
 ---
 
