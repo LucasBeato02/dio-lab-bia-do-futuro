@@ -18,7 +18,7 @@ Fornecendo informações financeiras, embasadas nos dados do cliente.
 ### 3. Demonstração (1 min)
 > Mostre o agente funcionando (pode ser gravação de tela)
 
-- Precisão na resposta de acordo com a dúvida do usuário
+Precisão na resposta de acordo com a dúvida do usuário
 
 ### 4. Diferencial e Impacto (30 seg)
 > Por que essa solução é inovadora e qual é o impacto dela na sociedade?
